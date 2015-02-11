@@ -67,13 +67,17 @@
 
 						</div>
 					</div>
-         <!--  <footer class="navbar navbar-fixed-bottom navbar-default" style="background-color:#E0E4CC" >
-      <p><br> &copy; 2015, Aavega Interactive,a @<a class="" target="_blank" href="http://suntechnologies.com/"> Sun Technologies</a> Company, <sup> &reg;</sup> All Rights Reserved</p>
-    </footer> -->
-				</div>
-
-			</div>
-		</div>
+              <div id="footer" class="container">
+                <nav class="navbar navbar-default navbar-fixed-bottom" style="background-color:#E0E4CC">
+                  <div class="navbar-inner centered" >
+                      <br><p class="text-muted credit">&copy; 2015, Aavega Interactive,a @<a class="" target="_blank" 
+                      href="http://suntechnologies.com/">Sun Technologies </a>Company, <sup> &reg;</sup> All Rights Reserved</p>
+                  </div>
+                </nav>
+              </div>          
+ 				   </div>
+			   </div>
+		    </div>
     
     <script>
    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

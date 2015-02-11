@@ -26,8 +26,15 @@ body {
 	border: 1px solid #2375b2;
 	color: #000;
 }
-#footer p {
+
+#footer a {
+  color:#efefef;
+}
+/*#footer p {
 	color: #000;
+}*/
+#footer > .container {
+  
 }
 #logo {
 	margin-top: -9%;
@@ -181,9 +188,7 @@ header .jumbotron{
 	font-family: GothamRounded;
 	color: #000;
 }
-#foot-sec .jumbotron {
-	margin-bottom:0px;
-}
+
 .round-img {
 	padding-bottom: 40px;
 	margin-left: -5px;
@@ -215,6 +220,10 @@ section {
 	padding-top: 1%;
 	padding-bottom: 2%;
 }
+.navbar-fixed-bottom{
+	min-height: 50%;
+
+}
 .navigation-tabs {
 	padding-left: 3%;
 	padding-top: 1%;
@@ -228,9 +237,8 @@ section {
 .banner-border {
 	padding-top: 2%;
 }
-#footer {
-	background: #E0E4CC;
-}
+
+
 .text-style {
 	text-align: left;
 	text-align: justify;
